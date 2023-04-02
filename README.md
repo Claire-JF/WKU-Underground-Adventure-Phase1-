@@ -10,14 +10,18 @@ demo：（视频网址）
 
 ## Quick Start 快速上手
 Game Engine: Unity
+
 Documentation: https://docs.unity3d.com/2022.1/Documentation/Manual/UnityManual.html
+
 Developing Version: 2022.1.16.f1c1
+
 Unity Student Plan: https://unity.com/products/unity-student (apply for FREE legal usage of the engine with a few screenshots)
 
 ## Project Structure 项目结构
 (tbd)
 
 ## Functional View & Job Distribution 分工
+
 #### Zhong Yilin [Artist]: Creating art assets
 
 #### Yuan Shuai
@@ -25,7 +29,9 @@ Unity Student Plan: https://unity.com/products/unity-student (apply for FREE leg
 
 #### Wang Junfeng
 Interactive Objects and Inheritance
+
 Saving Game's State
+
 Floating Text System
 
 #### Liu Wenbo
