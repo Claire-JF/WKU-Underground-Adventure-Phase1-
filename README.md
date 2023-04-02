@@ -24,18 +24,18 @@ Unity Student Plan: https://unity.com/products/unity-student (apply for FREE leg
 
 #### Zhong Yilin [Artist]: Creating art assets
 
-#### Yuan Shuai
+#### Yuan Shuai:
 
 
-#### Wang Junfeng
+#### Wang Junfeng:
 Interactive Objects and Inheritance
 
 Saving Game's State
 
 Floating Text System
 
-#### Liu Wenbo
+#### Liu Wenbo:
 
 
-#### Gao Zihang
+#### Gao Zihang:
 
