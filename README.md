@@ -22,7 +22,9 @@ Unity Student Plan: https://unity.com/products/unity-student (apply for FREE leg
 
 ## Functional View & Job Distribution 分工
 
-#### Zhong Yilin [Artist]: Creating art assets
+#### Zhong Yilin [Artist]: 
+
+Creating art assets
 
 #### Yuan Shuai:
 
