@@ -18,7 +18,7 @@ Developing Version: 2022.1.16.f1c1
 Unity Student Plan: https://unity.com/products/unity-student (apply for FREE legal usage of the engine with a few screenshots)
 
 ## Project Structure 项目结构
-(tbd)
+都在Assets下面 scripts都有注释 有不明白的直接联系
 
 ## Functional View & Job Distribution 分工
 
@@ -27,7 +27,9 @@ Unity Student Plan: https://unity.com/products/unity-student (apply for FREE leg
 Creating art assets
 
 #### Yuan Shuai:
+Moving and Manual Collision Detection
 
+Tilemap and Designing Dungeon
 
 #### Wang Junfeng:
 Interactive Objects and Inheritance
