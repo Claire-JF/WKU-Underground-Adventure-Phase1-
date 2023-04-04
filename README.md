@@ -35,10 +35,18 @@ Saving Game's State
 Floating Text System
 
 #### Liu Wenbo:
+Top-Down Combat System Development
 
+Animator and Weapon Swing Animation
+
+Storyline & NPC Dialogues
 
 #### Gao Zihang:
+Character Menu
 
+Game UI System
+
+Polishing and Adding Contents
 
 ## Work handover 工作交接
 第二阶段的同学们只需要在我们的框架下继续完善游戏即可，大致包括以下几个方面：
